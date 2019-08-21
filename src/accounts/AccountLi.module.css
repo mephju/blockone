@@ -1,0 +1,12 @@
+.content {
+  display: flex;
+}
+
+.number {
+  flex-grow: 1;
+}
+
+.credit {
+  text-align: right;
+  flex-grow: 1;
+}

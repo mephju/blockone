@@ -1,0 +1,12 @@
+.accountList {
+  list-style: none;
+  padding-left: 0;
+}
+
+.container {
+  /* display: flex; */
+}
+
+.container > div {
+
+}

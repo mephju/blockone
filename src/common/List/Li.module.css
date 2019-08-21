@@ -1,0 +1,6 @@
+.li {
+  padding: 20px;
+  border-bottom: 1px solid #efefef;
+  border-left: 1px solid #efefef;
+  display: flex;
+}
